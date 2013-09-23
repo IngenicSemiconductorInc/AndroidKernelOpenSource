@@ -7,7 +7,7 @@
   <remote  name="os"
            fetch="../.."
            review="https://review.ingenic.cn/" />
-  <default revision="refs/tags/android-4.3_r2.2"
+  <default revision="Indroid4.3-master"
            remote="aosp"
            sync-j="1" />
 
