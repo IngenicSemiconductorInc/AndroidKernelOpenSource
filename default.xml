@@ -26,8 +26,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/warrior" name="device/ingenic/warrior" revision="master" />
-  <project path="device/ingenic/npm801" name="device/ingenic/npm801" revision="master" />
+  <project path="device/ingenic/mensa" name="device/ingenic/mensa" revision="master" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="device/asus/flo" groups="device,flo" />
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" />
@@ -246,7 +245,7 @@
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
-  <project path="hardware/ingenic/xb4780" name="platform/hardware/ingenic/xb4780" revision="4780" />
+  <project path="hardware/ingenic/xb4780" name="platform/hardware/ingenic/xb4780" revision="4775" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="master-ingenic" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" revision="master" />
