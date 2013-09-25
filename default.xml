@@ -361,7 +361,7 @@
   <project path="packages/apps/Launcher2" name="android/platform/packages/apps/Launcher2" remote="os" revision="Indroid-master" />
   <project path="packages/apps/Music" name="android/platform/packages/apps/Music" remote="os" revision="Indroid-master"/>
    <project path="packages/apps/Calendar" name="android/platform/packages/apps/Calendar" remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/Camera" name="android/platform/packages/apps/Camera" remote="os" revision="Indroid-master"/>
+  <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/IndroidSync" name="android/platform/packages/apps/IndroidSync" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/IndroidWeather" name="android/platform/packages/apps/IndroidWeather" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/SyncDemo" name="android/platform/packages/apps/SyncDemo" remote="os" revision="Indroid-master"/>
