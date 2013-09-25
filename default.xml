@@ -354,13 +354,13 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" />
   <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" />
+  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts"/>
+  <project path="packages/apps/Mms" name="platform/packages/apps/Mms"/>
+  <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider"/>
+  <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider"/>
   <project path="packages/apps/Launcher2" name="android/platform/packages/apps/Launcher2" remote="os" revision="Indroid-master" />
-  <project path="packages/apps/Contacts" name="android/platform/packages/apps/Contacts"  remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/Mms" name="android/platform/packages/apps/Mms" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/Music" name="android/platform/packages/apps/Music" remote="os" revision="Indroid-master"/>
-  <project path="packages/providers/ContactsProvider" name="android/platform/packages/providers/ContactsProvider" remote="os" revision="Indroid-master"/>
-  <project path="packages/providers/TelephonyProvider" name="android/platform/packages/providers/TelephonyProvider" remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/Calendar" name="android/platform/packages/apps/Calendar" remote="os" revision="Indroid-master"/>
+   <project path="packages/apps/Calendar" name="android/platform/packages/apps/Calendar" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/Camera" name="android/platform/packages/apps/Camera" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/IndroidSync" name="android/platform/packages/apps/IndroidSync" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/IndroidWeather" name="android/platform/packages/apps/IndroidWeather" remote="os" revision="Indroid-master"/>
