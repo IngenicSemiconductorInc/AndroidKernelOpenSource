@@ -366,7 +366,7 @@
   <project path="packages/apps/IndroidWeather" name="android/platform/packages/apps/IndroidWeather" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/SyncDemo" name="android/platform/packages/apps/SyncDemo" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/IndroidSyncWatch" name="android/platform/packages/apps/IndroidSyncWatch" remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/Gallery2" name="android/platform/packages/apps/Gallery2" remote="os" revision="Indroid-master"/>
+  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2"/>
 
 
 </manifest>
