@@ -362,5 +362,7 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="ing-jz4780"/>
   <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" revision="ing-jz4780"/>
+  <project path="vendor/ingenic/mensa" name="platform/vendor/ingenic/mensa" revision="master" />
+  <project path="vendor/sample" name="platform/vendor/sample" revision="master" />
 
 </manifest>
