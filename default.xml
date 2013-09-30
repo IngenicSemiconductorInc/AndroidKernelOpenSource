@@ -187,7 +187,7 @@
   <project path="external/robolectric" name="platform/external/robolectric" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" />
   <project path="external/sepolicy" name="platform/external/sepolicy" groups="pdk" />
-  <project path="external/skia" name="platform/external/skia" revision="android-4.3_r2.2-ingenic-mensa"/>
+  <project path="external/skia" name="platform/external/skia" />
   <project path="external/smack" name="platform/external/smack" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
@@ -363,6 +363,5 @@
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="ing-jz4780"/>
   <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" revision="ing-jz4780"/>
   <project path="vendor/ingenic/mensa" name="platform/vendor/ingenic/mensa" revision="master" />
-  <project path="vendor/sample" name="platform/vendor/sample" revision="master" />
 
 </manifest>
