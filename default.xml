@@ -363,6 +363,8 @@
   <project path="packages/apps/IndroidWeather" name="android/platform/packages/apps/IndroidWeather" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/SyncDemo" name="android/platform/packages/apps/SyncDemo" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/IndroidSyncWatch" name="android/platform/packages/apps/IndroidSyncWatch" remote="os" revision="Indroid-master"/>
+  <project path="packages/apps/SettingWidget" name ="platform/packages/apps/SettingWidget"/>
+  <project path="external/jzbluetooth" name ="platform/external/jzbluetooth"/>
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock"/>
   <project path="vendor/ingenic/s2122b" name="platform/vendor/ingenic/s2122b" />
   <project path="vendor/ingenic/s2121b" name="platform/vendor/ingenic/s2121b" />
