@@ -2,10 +2,14 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".." />
-  <default revision="refs/tags/android-4.4_r1.2"
+           fetch=".."
+           review="https://review.ingenic.cn/" />
+  <remote  name="os"
+           fetch="../.."
+           review="https://review.ingenic.cn/" />
+  <default revision="android-4.4-master"
            remote="aosp"
-           sync-j="4" />
+           sync-j="1" />
 
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -427,5 +431,14 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+
+  <project path="hardware/ingenic/xb4780" name="platform/hardware/ingenic/xb4780" />
+  <project path="hardware/ingenic/xb4775" name="platform/hardware/ingenic/xb4775" />
+
+  <project path="device/ingenic/npm801" name="device/ingenic/npm801" />
+  <project path="device/ingenic/urboard" name="device/ingenic/urboard" />
+
+  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" />
+  <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" />
 
 </manifest>
