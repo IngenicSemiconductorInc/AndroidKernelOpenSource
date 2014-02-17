@@ -432,8 +432,8 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
-  <project path="hardware/ingenic/xb4780" name="platform/hardware/ingenic/xb4780" />
-  <project path="hardware/ingenic/xb4775" name="platform/hardware/ingenic/xb4775" />
+  <project path="hardware/ingenic/jz4780" name="platform/hardware/ingenic/jz4780" />
+  <project path="hardware/ingenic/jz4775" name="platform/hardware/ingenic/jz4775" />
 
   <project path="device/ingenic/npm801" name="device/ingenic/npm801" />
   <project path="device/ingenic/urboard" name="device/ingenic/urboard" />
