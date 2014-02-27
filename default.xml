@@ -28,7 +28,7 @@
   <project path="development" name="platform/development" />
   <project path="device/ingenic/mensa" name="device/ingenic/mensa" />
   <project path="device/ingenic/s2122b" name="device/ingenic/s2122b" />
-  <project path="device/ingenic/s2122b_15_a221" name="device/ingenic/s2122b_15_a221" />
+  <project path="device/ingenic/s2122b_15_a221" name="device/ingenic/s2122b_15_a221" /> 
   <project path="device/ingenic/s2121b" name="device/ingenic/s2121b" />
   <project path="device/ingenic/s2122b_full" name="device/ingenic/s2122b_full" />
   <project path="device/ingenic/s2523b_15m" name="device/ingenic/s2523b_15m" />
