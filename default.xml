@@ -31,6 +31,7 @@
   <project path="device/ingenic/s2121b" name="device/ingenic/s2121b" />
   <project path="device/ingenic/s2122b_full" name="device/ingenic/s2122b_full" />
   <project path="device/ingenic/s2523b_15m" name="device/ingenic/s2523b_15m" />
+  <project path="device/ingenic/inwatch2" name="device/ingenic/inwatch2" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
