@@ -25,6 +25,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/ingenic/mensa" name="device/ingenic/mensa" revision="master" />
+  <project path="device/ingenic/newton" name="device/ingenic/newton" revision="master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -343,7 +344,7 @@
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
-  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="ing-jz4780" />
+  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="newton-master" />
   <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" revision="ing-jz4780" />
   <project path="vendor/ingenic/mensa" name="platform/vendor/ingenic/mensa" revision="master" />
 
