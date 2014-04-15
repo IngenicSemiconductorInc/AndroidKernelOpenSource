@@ -356,6 +356,7 @@
   <project path="packages/apps/IndroidContacts" name="platform/packages/apps/IndroidContacts"/>
   <project path="packages/apps/IndroidMms" name="platform/packages/apps/IndroidMms"/>
   <project path="packages/apps/IndroidInCallUI" name="platform/packages/apps/IndroidInCallUI"/>
+  <project path="packages/apps/AncsClient" name="platform/packages/apps/AncsClient"/>
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider"/>
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider"/>
   <project path="packages/apps/Launcher2" name="android/platform/packages/apps/Launcher2" remote="os" revision="Indroid-master" />
