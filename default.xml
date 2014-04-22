@@ -374,6 +374,7 @@
   <project path="vendor/ingenic/s2122b" name="platform/vendor/ingenic/s2122b" />
   <project path="vendor/ingenic/s2121b" name="platform/vendor/ingenic/s2121b" />
   <project path="vendor/ingenic/s2523b_15m" name="platform/vendor/ingenic/s2523b_15m" />
+  <project path="vendor/ingenic/s2121b_16t" name="platform/vendor/ingenic/s2121b_16t" />
   <project path="vendor/ingenic/watchcommon" name="platform/vendor/ingenic/watchcommon" />
   <project path="packages/apps/IndroidIME" name ="platform/packages/apps/IndroidIME"/>
 
