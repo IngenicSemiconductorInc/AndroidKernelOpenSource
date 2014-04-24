@@ -383,4 +383,5 @@
   <project path="packages/apps/IndroidMusic" name ="platform/packages/apps/IndroidMusic"/>
   <project path="packages/apps/IndroidWatchOta" name ="platform/packages/apps/IndroidWatchOta"/>
   <project path="packages/apps/IndroidWatchWeather" name ="platform/packages/apps/IndroidWatchWeather"/>
+  <project path="packages/apps/IndroidLauncherMirasol" name ="platform/packages/apps/IndroidLauncherMirasol"/>
 </manifest>
