@@ -307,6 +307,8 @@
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile"  />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME"  />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter"  />
+  <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms"  />
+  <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts"  />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
