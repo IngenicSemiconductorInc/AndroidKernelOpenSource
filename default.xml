@@ -28,6 +28,7 @@
   <project path="development" name="platform/development" />
   <project path="device/ingenic/mensa" name="device/ingenic/mensa" />
   <project path="device/ingenic/s2122b_15_a221" name="device/ingenic/s2122b_15_a221" /> 
+  <project path="device/ingenic/s2523b_a230" name="device/ingenic/s2523b_a230" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
