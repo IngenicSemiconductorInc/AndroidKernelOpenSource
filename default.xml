@@ -311,6 +311,7 @@
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms"  />
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts"  />
   <project path="packages/apps/MyMap" name="platform/packages/apps/MyMap"  />
+  <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather"  />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
