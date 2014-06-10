@@ -345,7 +345,7 @@
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="newton-master" />
-  <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" revision="ing-jz4780" />
+  <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" revision="newton-master" />
   <project path="vendor/ingenic/mensa" name="platform/vendor/ingenic/mensa" revision="master" />
   <project path="vendor/ingenic/newton" name="platform/vendor/ingenic/newton" revision="newton-master" />
 
