@@ -45,7 +45,7 @@
   <project path="external/ant-glob" name="platform/external/ant-glob" />
   <project path="external/antlr" name="platform/external/antlr" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" />
-  <project path="external/apache-http" name="platform/external/apache-http" revision="android-4.3_r3.1-ingenic"/>
+  <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-qp" name="platform/external/apache-qp" />
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/arduino" name="platform/external/arduino" />
@@ -220,7 +220,7 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="android-4.3_r3.1-ingenic" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="android-4.3_r3.1-ingenic" />
   <project path="frameworks/support" name="platform/frameworks/support" />
@@ -251,7 +251,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
-  <project path="libcore" name="platform/libcore" revision="android-4.3_r3.1-ingenic"/>
+  <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -285,7 +285,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" revision="android-4.3_r3.1-ingenic"/>
+  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -339,7 +339,7 @@
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
-  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="jz4785-fpga-ic" />
-  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-v2013.07" />
+  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="ingenic-master" />
+  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
 
 </manifest>
