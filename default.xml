@@ -343,5 +343,6 @@
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="Indroid4.4-master" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="Indroid4.4-master" />
   <project path="vendor/ingenic/d2030e" name="platform/vendor/ingenic/d2030e" revision="Indroid4.4-master" />
+  <project path="vendor/ingenic/watchcommon" name="platform/vendor/ingenic/watchcommon" remote="aosp" revision="Indroid4.3-master"/>
 
 </manifest>
