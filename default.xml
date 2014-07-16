@@ -26,6 +26,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="master" />
+  <project path="device/ingenic/d2030e" name="device/ingenic/d2030e" groups="device" revision="Indroid4.4-master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -341,5 +342,6 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="Indroid4.4-master" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="Indroid4.4-master" />
+  <project path="vendor/ingenic/d2030e" name="platform/vendor/ingenic/d2030e" revision="Indroid4.4-master" />
 
 </manifest>
