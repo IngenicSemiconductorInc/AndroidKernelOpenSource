@@ -26,7 +26,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/newton" name="device/ingenic/newton" revision="master" />
+  <project path="device/ingenic/newton" name="device/ingenic/newton" revision="dev-newton-master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -359,7 +359,6 @@
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock"/>
   <project path="packages/apps/HeartRateDemo" name="platform/packages/apps/HeartRateDemo"/>
   <project path="vendor/ingenic/newton" name="platform/vendor/ingenic/newton" revision="newton-master" />
-  <project path="vendor/ingenic/s2523b_15m" name="platform/vendor/ingenic/s2523b_15m" />
   <project path="vendor/ingenic/watchcommon" name="platform/vendor/ingenic/watchcommon" />
   <project path="packages/apps/IndroidIME" name ="platform/packages/apps/IndroidIME"/>
 
