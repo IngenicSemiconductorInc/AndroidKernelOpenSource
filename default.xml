@@ -9,7 +9,7 @@
            review="https://review.ingenic.cn/" />
   <default revision="Indroid4.3-master"
            remote="aosp"
-           sync-j="1" />
+           sync-j="4" />
 
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -26,16 +26,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/mensa" name="device/ingenic/mensa" />
-  <project path="device/ingenic/s2122b" name="device/ingenic/s2122b" />
-  <project path="device/ingenic/s2121b" name="device/ingenic/s2121b" />
-  <project path="device/ingenic/s2122b_full" name="device/ingenic/s2122b_full" />
-  <project path="device/ingenic/s2523b_15m" name="device/ingenic/s2523b_15m" />
-  <project path="device/ingenic/s2121b_16t" name="device/ingenic/s2121b_16t" />
-  <project path="device/ingenic/s2121b_16t_mini" name="device/ingenic/s2121b_16t_mini" revision="master" />
-  <project path="device/ingenic/inwatch2" name="device/ingenic/inwatch2" />
-  <project path="device/ingenic/sw501" name="device/ingenic/sw501" />
-  <project path="device/ingenic/s2523b_foxconn" name="device/ingenic/s2523b_foxconn" />
+  <project path="device/ingenic/newton" name="device/ingenic/newton" revision="master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -48,13 +39,6 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-  <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device,tuna" />
-  <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
-  <project path="device/samsung/toro" name="device/samsung/toro" groups="device,tuna" />
-  <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device,tuna" />
-  <project path="device/samsung/tuna" name="device/samsung/tuna" groups="device,tuna" />
-  <project path="device/samsung_slsi/arndale" name="device/samsung_slsi/arndale" groups="device" />
-  <project path="device/ti/panda" name="device/ti/panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -353,7 +337,7 @@
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" />
-  <project path="bootable/bootloader/xboot" name="android/platform/bootable/bootloader/xboot" remote="os" />
+  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts"/>
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms"/>
   <project path="packages/apps/IndroidContacts" name="platform/packages/apps/IndroidContacts"/>
@@ -374,12 +358,9 @@
   <project path="packages/apps/SettingWidget" name ="platform/packages/apps/SettingWidget"/>
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock"/>
   <project path="packages/apps/HeartRateDemo" name="platform/packages/apps/HeartRateDemo"/>
-  <project path="vendor/ingenic/s2122b" name="platform/vendor/ingenic/s2122b" />
-  <project path="vendor/ingenic/s2121b" name="platform/vendor/ingenic/s2121b" />
+  <project path="vendor/ingenic/newton" name="platform/vendor/ingenic/newton" revision="newton-master" />
   <project path="vendor/ingenic/s2523b_15m" name="platform/vendor/ingenic/s2523b_15m" />
-  <project path="vendor/ingenic/s2121b_16t" name="platform/vendor/ingenic/s2121b_16t" />
   <project path="vendor/ingenic/watchcommon" name="platform/vendor/ingenic/watchcommon" />
-  <project path="vendor/ingenic/s2523b_foxconn" name="platform/vendor/ingenic/s2523b_foxconn" />
   <project path="packages/apps/IndroidIME" name ="platform/packages/apps/IndroidIME"/>
 
   <project path="packages/apps/IndroidLauncher" name ="platform/packages/apps/IndroidLauncher"/>
