@@ -381,6 +381,7 @@
   <project path="packages/apps/SettingWidget" name ="platform/packages/apps/SettingWidget"/>
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock"/>
   <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK"/>
+  <project path="packages/apps/GlassIncall" name="platform/packages/apps/GlassInCall"/>
 
 
 
