@@ -9,7 +9,7 @@
            review="https://review.ingenic.cn/" />
   <default revision="Indroid4.3-master"
            remote="aosp"
-           sync-j="4" />
+           sync-j="1" />
 
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -340,36 +340,16 @@
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts"/>
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms"/>
-  <project path="packages/apps/IndroidContacts" name="platform/packages/apps/IndroidContacts"/>
-  <project path="packages/apps/IndroidMms" name="platform/packages/apps/IndroidMms"/>
-  <project path="packages/apps/IndroidInCallUI" name="platform/packages/apps/IndroidInCallUI"/>
   <project path="packages/apps/AncsClient" name="platform/packages/apps/AncsClient"/>
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider"/>
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider"/>
   <project path="packages/apps/Launcher2" name="android/platform/packages/apps/Launcher2" remote="os" revision="Indroid-master" />
-  <project path="packages/apps/RemoteController" name="android/platform/packages/apps/RemoteController" remote="os" revision="Indroid-master" />
   <project path="packages/apps/Music" name="android/platform/packages/apps/Music" remote="os" revision="Indroid-master"/>
    <project path="packages/apps/Calendar" name="android/platform/packages/apps/Calendar" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
-  <project path="packages/apps/IndroidSyncMobile" name="android/platform/packages/apps/IndroidSyncMobile" remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/IndroidWeather" name="android/platform/packages/apps/IndroidWeather" remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/SyncDemo" name="android/platform/packages/apps/SyncDemo" remote="os" revision="Indroid-master"/>
-  <project path="packages/apps/IndroidSyncWatch" name="android/platform/packages/apps/IndroidSyncWatch" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/SettingWidget" name ="platform/packages/apps/SettingWidget"/>
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock"/>
   <project path="packages/apps/HeartRateDemo" name="platform/packages/apps/HeartRateDemo"/>
   <project path="vendor/ingenic/newton" name="platform/vendor/ingenic/newton" revision="newton-master" />
-  <project path="vendor/ingenic/watchcommon" name="platform/vendor/ingenic/watchcommon" />
-  <project path="packages/apps/IndroidIME" name ="platform/packages/apps/IndroidIME"/>
-
-  <project path="packages/apps/IndroidLauncher" name ="platform/packages/apps/IndroidLauncher"/>
   <project path="packages/apps/IndroidAppsWidget" name ="platform/packages/apps/IndroidAppsWidget"/>
-  <project path="packages/apps/IndroidMusic" name ="platform/packages/apps/IndroidMusic"/>
-  <project path="packages/apps/IndroidWatchOta" name ="platform/packages/apps/IndroidWatchOta"/>
-  <project path="packages/apps/IndroidWatchWeather" name ="platform/packages/apps/IndroidWatchWeather"/>
-  <project path="packages/apps/IndroidLauncherMirasol" name ="platform/packages/apps/IndroidLauncherMirasol"/>
-  <project path="packages/apps/IndroidAppsWidgetMirasol" name ="platform/packages/apps/IndroidAppsWidgetMirasol"/>
-  <project path="packages/apps/IndroidMusicMirasol" name ="platform/packages/apps/IndroidMusicMirasol"/>
-  <project path="packages/apps/IngenicInCall" name ="platform/packages/apps/IngenicInCall"/>
-  <project path="packages/apps/IngenicSettings" name ="platform/packages/apps/IngenicSettings"/>
 </manifest>
