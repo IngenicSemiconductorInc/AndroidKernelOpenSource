@@ -26,7 +26,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/newton" name="device/ingenic/newton" revision="dev-newton-master" />
+  <project path="device/ingenic/newton" name="device/ingenic/newton" revision="newton-master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -280,7 +280,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
+  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" revision="newton-master" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -345,7 +345,7 @@
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider"/>
   <project path="packages/apps/Launcher2" name="android/platform/packages/apps/Launcher2" remote="os" revision="Indroid-master" />
   <project path="packages/apps/Music" name="android/platform/packages/apps/Music" remote="os" revision="Indroid-master"/>
-   <project path="packages/apps/Calendar" name="android/platform/packages/apps/Calendar" remote="os" revision="Indroid-master"/>
+  <project path="packages/apps/Calendar" name="android/platform/packages/apps/Calendar" remote="os" revision="Indroid-master"/>
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/SettingWidget" name ="platform/packages/apps/SettingWidget"/>
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock"/>
