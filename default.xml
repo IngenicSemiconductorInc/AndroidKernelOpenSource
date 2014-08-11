@@ -383,6 +383,7 @@
   <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK"/>
   <project path="packages/apps/GlassIncall" name="platform/packages/apps/GlassInCall"/>
   <project path="packages/apps/AncsClient" name="platform/packages/apps/AncsClient" />
+  <project path="packages/apps/GlassARIME" name="platform/packages/apps/GlassARIME" />
 
 
 
