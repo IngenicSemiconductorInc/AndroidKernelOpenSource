@@ -392,4 +392,5 @@
   <project path="packages/apps/IndroidMusicMirasol" name ="platform/packages/apps/IndroidMusicMirasol"/>
   <project path="packages/apps/IngenicInCall" name ="platform/packages/apps/IngenicInCall"/>
   <project path="packages/apps/IngenicSettings" name ="platform/packages/apps/IngenicSettings"/>
+  <project path="packages/apps/IndroidTheme" name ="platform/packages/apps/IndroidTheme"/>
 </manifest>
