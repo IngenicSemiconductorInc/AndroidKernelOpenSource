@@ -32,6 +32,7 @@
   <project path="device/ingenic/s2122b_full" name="device/ingenic/s2122b_full" />
   <project path="device/ingenic/s2523b_15m" name="device/ingenic/s2523b_15m" />
   <project path="device/ingenic/s2121b_16t" name="device/ingenic/s2121b_16t" />
+  <project path="device/ingenic/s2121b_16t_m150" name="device/ingenic/s2121b_16t_m150" />
   <project path="device/ingenic/s2121b_16t_mini" name="device/ingenic/s2121b_16t_mini" revision="master" />
   <project path="device/ingenic/inwatch2" name="device/ingenic/inwatch2" />
   <project path="device/ingenic/sw501" name="device/ingenic/sw501" />
