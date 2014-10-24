@@ -26,10 +26,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="master" />
-  <project path="device/ingenic/s3132e_monday" name="device/ingenic/s3132e_monday" groups="device" revision="master" />
-  <project path="device/ingenic/s3132e_october" name="device/ingenic/s3132e_october" groups="device" revision="master" />
   <project path="device/ingenic/s3132e_umbrella" name="device/ingenic/s3132e_umbrella" groups="device" revision="master" />
-  <project path="device/ingenic/s3132e_regularity" name="device/ingenic/s3132e_regularity" groups="device" revision="s3132e-regularity-glass-master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -360,7 +357,7 @@
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
-  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="ingenic-master" />
-  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
+  <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="m200-glass-master" />
+  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="m200-glass-master" />
 
 </manifest>
