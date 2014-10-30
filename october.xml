@@ -52,7 +52,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" />
+  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" revision="android-4.3-glass-master"/>
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" />
@@ -231,10 +231,10 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="master" />
   <project path="hardware/akm" name="platform/hardware/akm" />
-  <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
+  <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="android-4.3-glass-master"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" revision="android-4.3_r3.1-ingenic" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" revision="android-4.3_r3.1-ingenic" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="android-4.3_r3.1-ingenic" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="m200-glass-master" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom" />
@@ -256,7 +256,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
   <!-- <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" /> -->
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" revision="android-4.3-glass-master"/>
   <!-- <project path="packages/apps/Browser" name="platform/packages/apps/Browser" /> -->
   <!-- <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" /> -->
   <!-- <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" /> -->
