@@ -28,7 +28,6 @@
   <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="master" />
   <project path="device/ingenic/d2030e" name="device/ingenic/d2030e" groups="device" revision="Indroid4.4-master" />
   <project path="device/ingenic/watch" name="device/ingenic/watch" groups="device" revision="Indroid4.4-master" />
-  <project path="device/ingenic/acrab" name="device/ingenic/acrab" groups="device" revision="Indroid4.4-master" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
