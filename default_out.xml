@@ -378,4 +378,5 @@
   <project path="packages/apps/IndroidMusic" name ="platform/packages/apps/IndroidMusic"/>
   <project path="packages/apps/IndroidWatchOta" name ="platform/packages/apps/IndroidWatchOta"/>
   <project path="packages/apps/IndroidWatchWeather" name ="platform/packages/apps/IndroidWatchWeather"/>
+  <project path="packages/apps/IngenicInCall" name ="platform/packages/apps/IngenicInCall"/>
 </manifest>
