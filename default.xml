@@ -395,5 +395,5 @@
   <project path="packages/apps/IngenicSettings" name ="platform/packages/apps/IngenicSettings"/>
   <project path="packages/apps/IndroidTheme" name ="platform/packages/apps/IndroidTheme"/>
   <project path="packages/apps/HfDeviceService" name ="platform/packages/apps/HfDeviceService"/>
-  <project path="packages/apps/WearSyncSpp" name ="platform/packages/apps/WearSyncSpp" revision="IndroidWear4.4w-master"/>
+  <project path="packages/apps/WearSyncSpp" name ="platform/packages/apps/WearSyncSpp" />
 </manifest>
