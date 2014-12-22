@@ -358,5 +358,5 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="m200-glass-master" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="m200-glass-master" />
-
+ <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="android-4.3-glass-dev"/>
 </manifest>
