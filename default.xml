@@ -6,16 +6,16 @@
   <remote  name="os"
            fetch="../.."
            review="https://review.ingenic.cn/" />
-  <default revision="refs/tags/android-4.4.4_r2"
+  <default revision="refs/tags/ingenic-android4.4.4_r2-kernel3.10.14-dorado-v1.1-20150107"
            remote="aosp"
            sync-j="1" />
 
-  <project path="build" name="platform/build" groups="pdk" revision="android-4.4.4_r2-ingenic" >
+  <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="platform/art" revision="android-4.4.4_r2-ingenic" />
-  <project path="bionic" name="platform/bionic" groups="pdk"  revision="android-4.4.4_r2-ingenic" />
+  <project path="art" name="platform/art" />
+  <project path="bionic" name="platform/bionic" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
@@ -26,9 +26,8 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="ingenic-dev" />
-  <project path="device/ingenic/newton" name="device/ingenic/newton" groups="device" revision="newton2-master-4.4.4_r2" />
-  <project path="device/ingenic/host-tools/BurnerBinary" name="new-burner/BurnerBinary" remote="os" revision="master" />
+  <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" />
+  <project path="device/ingenic/host-tools/BurnerBinary" name="new-burner/BurnerBinary" remote="os" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -54,7 +53,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" revision="android-4.4.4_r2-ingenic" />
+  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" />
@@ -237,15 +236,15 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" />
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="android-4.4.4_r2-ingenic" />
-  <project path="frameworks/base" name="platform/frameworks/base" revision="android-4.4.4_r2-ingenic" />
+  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
+  <project path="frameworks/base" name="platform/frameworks/base" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="android-4.4.4_r2-ingenic" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" />
@@ -266,12 +265,12 @@
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
-  <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="ingenic-dev" />
+  <project path="hardware/ingenic" name="platform/hardware/ingenic" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
-  <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" revision="android-4.4.4_r2-ingenic" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="android-4.4.4_r2-ingenic"/>
+  <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
   <project path="libcore" name="platform/libcore" />
@@ -313,7 +312,7 @@
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
-  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" revision="android-4.3_r3.1-ingenic" />
+  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
@@ -366,7 +365,7 @@
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" groups="pdk,linux,mips" />
-  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" name="toolchains/install/mipsel-linux-android-4.7" remote="os" groups="pdk,linux,mips" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" name="toolchains/install/mipsel-linux-android-4.7" remote="os" groups="pdk,linux,mips" />
   <project path="prebuilts/gradle-plugin" name="platform/prebuilts/gradle-plugin" />
   <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" />
@@ -378,17 +377,17 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/core" name="platform/system/core" groups="pdk" />
-  <project path="system/extras" name="platform/system/extras" groups="pdk" revision="android-4.4.4_r2-ingenic" />
+  <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
-  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
-  <project path="kernel-3.10.14" name="kernel/mips" revision="ingenic-master-3.10.14" />
+  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" />
+  <project path="kernel-3.10.14" name="kernel/mips" />
   <project path="tools/base" name="platform/tools/base" />
-  <project path="tools/gradle" name="platform/tools/gradle" revision="gradle-dev" />
-  <project path="tools/swt" name="platform/tools/swt" revision="android-4.4-master" />
-  <project path="tools/external/gradle" name="platform/tools/external/gradle" revision="android-4.4-master" />
-  <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" revision="android-4.4-master" />
-  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" revision="android-4.4-master" />
+  <project path="tools/gradle" name="platform/tools/gradle" />
+  <project path="tools/swt" name="platform/tools/swt" />
+  <project path="tools/external/gradle" name="platform/tools/external/gradle" />
+  <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" />
+  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
 </manifest>
