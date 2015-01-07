@@ -301,7 +301,7 @@
   <project path="packages/apps/MyMusic" name="platform/packages/apps/MyMusic" revision="android-4.3-glass-master" />
   <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="android-4.3-glass-master" />
-  <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="android-4.3-glass-master" />
+  <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="android-4.3-glass-master" />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="android-4.3-glass-master" />
