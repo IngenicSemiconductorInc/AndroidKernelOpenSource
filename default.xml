@@ -26,7 +26,6 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="ingenic-dev" />
   <project path="device/ingenic/newton" name="device/ingenic/newton" groups="device" revision="newton2-master-4.4.4_r2" />
   <project path="device/ingenic/host-tools/BurnerBinary" name="new-burner/BurnerBinary" remote="os" revision="master" />
   <project path="device/common" name="device/common" />
@@ -297,7 +296,6 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
@@ -391,4 +389,5 @@
   <project path="tools/external/gradle" name="platform/tools/external/gradle" revision="android-4.4-master" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" revision="android-4.4-master" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" revision="android-4.4-master" />
+  <project path="packages/apps/Launcher2" name="android/platform/packages/apps/Launcher2" remote="os"  revision="Indroid-master" />
 </manifest>
