@@ -18,7 +18,7 @@
   <project path="bionic" name="platform/bionic" groups="pdk"  revision="android-4.4.4_r2-ingenic" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
+  <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="android-4.4.4_r2-ingenic-watch" />
   <project path="cts" name="platform/cts" groups="cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="developers/build" name="platform/developers/build" />
