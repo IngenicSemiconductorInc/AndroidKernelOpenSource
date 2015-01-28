@@ -305,6 +305,7 @@
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="android-4.3-glass-master" />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="android-4.3-glass-master" />
+  <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="android-4.3-glass-master"/>
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="android-4.3-glass-master" />
   <project path="packages/apps/MyMap" name="platform/packages/apps/MyMap" revision="android-4.3-glass-master" />
   <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather" revision="android-4.3-glass-master" />
@@ -358,5 +359,4 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="m200-glass-master" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="m200-glass-master" />
- <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="android-4.3-glass-dev"/>
 </manifest>
