@@ -6,7 +6,7 @@
   <remote  name="os"
            fetch="../.."
            review="https://review.ingenic.cn/" />
-  <default revision="refs/tags/ingenic-android4.4.4_r2-kernel3.10.14-dorado-v1.1-20150107"
+  <default revision="refs/tags/ingenic-android4.4.4_r2-kernel3.10.14-dorado-v1.2-20150202"
            remote="aosp"
            sync-j="1" />
 
