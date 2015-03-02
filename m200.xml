@@ -14,10 +14,10 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="bionic" name="platform/bionic" groups="pdk" />
+  <project path="bionic" name="platform/bionic" groups="pdk" remote="aosp" revision="Indroid4.3-master"/>
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="android-4.3_r3.1-ingenic"/>
+  <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="Indroid4.3-master"/>
   <project path="cts" name="platform/cts" groups="cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="developers/build" name="platform/developers/build" />
@@ -140,7 +140,7 @@
   <project path="external/marisa-trie" name="platform/external/marisa-trie" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" />
-  <project path="external/mksh" name="platform/external/mksh" groups="pdk" />
+  <project path="external/mksh" name="platform/external/mksh" groups="pdk"  remote="aosp" revision="Indroid4.3-master"/>
   <project path="external/mockito" name="platform/external/mockito" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
   <project path="external/mp4parser" name="platform/external/mp4parser" />
@@ -232,9 +232,9 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="master" />
   <project path="hardware/akm" name="platform/hardware/akm" />
-  <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
+  <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" remote="aosp" revision="Indroid4.3-master"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" revision="android-4.3_r3.1-ingenic" />
-  <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" revision="android-4.3_r3.1-ingenic" />
+  <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" remote="aosp" revision="Indroid4.3-master"/>
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="Indroid4.4-master" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
@@ -266,7 +266,7 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
-  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
+  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" remote="aosp" revision="Indroid4.3-master"/>
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -332,7 +332,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" remote="aosp" revision="Indroid4.3-master"/>
-  <project path="system/core" name="platform/system/core" groups="pdk" />
+  <project path="system/core" name="platform/system/core" groups="pdk" remote="aosp" revision="Indroid4.3-master"/>
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="android-4.3_r3.1-ingenic" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
