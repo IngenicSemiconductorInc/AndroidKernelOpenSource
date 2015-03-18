@@ -379,7 +379,7 @@
   <project path="system/core" name="platform/system/core" groups="pdk" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="android-4.4.4_r2-ingenic" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" />
+  <project path="system/netd" name="platform/system/netd" groups="pdk" revision="android-4.4.4_r2-ingenic" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
