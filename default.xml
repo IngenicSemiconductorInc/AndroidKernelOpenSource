@@ -294,21 +294,21 @@
   <!-- <project path="packages/apps/Tag" name="platform/packages/apps/Tag" /> -->
   <!-- <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" /> -->
   <!-- <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" /> -->
-  <project path="packages/apps/GlassLauncher" name="platform/packages/apps/GlassLauncher" revision="android-4.3-glass-master" />
-  <project path="packages/apps/GlassSettings" name="platform/packages/apps/GlassSettings" revision="android-4.3-glass-master" />
+  <project path="packages/apps/GlassLauncher" name="platform/packages/apps/GlassLauncher" revision="m200-glass-master" />
+  <project path="packages/apps/GlassSettings" name="platform/packages/apps/GlassSettings" revision="m200-glass-master" />
   <project path="packages/apps/MySight" name="platform/packages/apps/MySight" revision="android-4.3-glass-master" />
   <project path="packages/apps/MyMedia" name="platform/packages/apps/MyMedia" revision="android-4.3-glass-master" />
-  <project path="packages/apps/MyMusic" name="platform/packages/apps/MyMusic" revision="android-4.3-glass-master" />
-  <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="android-4.3-glass-master" />
-  <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="android-4.3-glass-master" />
+  <project path="packages/apps/MyMusic" name="platform/packages/apps/MyMusic" revision="m200-glass-master" />
+  <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="m200-glass-master" />
+  <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="android-4.3-glass-master" />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="android-4.3-glass-master" />
-  <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="android-4.3-glass-master" />
- <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="android-4.3-glass-master"/>
-  <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="android-4.3-glass-master" />
+  <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="m200-glass-master" />
+  <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master"/>
+  <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
   <project path="packages/apps/MyMap" name="platform/packages/apps/MyMap" revision="android-4.3-glass-master" />
-  <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather" revision="android-4.3-glass-master" />
+  <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather" revision="m200-glass-master" />
   <project path="packages/apps/MyVoiceRecognizer" name="platform/packages/apps/MyVoiceRecognizer" revision="android-4.3-glass-master" />
   <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassARIME" name="platform/packages/apps/GlassARIME" revision="android-4.3-glass-master" />
