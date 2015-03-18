@@ -308,6 +308,7 @@
   <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master"/>
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
   <project path="packages/apps/MyMap" name="platform/packages/apps/MyMap" revision="m200-glass-master" />
+  <project path="packages/apps/GlassFaceDetect" name="platform/packages/apps/GlassFaceDetect" revision="m200-glass-master" />
   <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather" revision="m200-glass-master" />
   <project path="packages/apps/MyVoiceRecognizer" name="platform/packages/apps/MyVoiceRecognizer" revision="android-4.3-glass-master" />
   <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK" revision="android-4.3-glass-master" />
