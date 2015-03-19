@@ -303,7 +303,7 @@
   <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="android-4.3-glass-master" />
-  <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="android-4.3-glass-master" />
+  <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="m200-glass-master" />
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="m200-glass-master" />
   <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master"/>
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
