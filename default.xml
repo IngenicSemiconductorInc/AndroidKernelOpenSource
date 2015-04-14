@@ -307,6 +307,7 @@
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="m200-glass-master" />
   <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master"/>
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
+  <project path="packages/apps/AncsClient" name="platform/packages/apps/AncsClient" revision="m200-glass-master" />
   <project path="packages/apps/MyMap" name="platform/packages/apps/MyMap" revision="m200-glass-master" />
   <project path="packages/apps/GlassFaceDetect" name="platform/packages/apps/GlassFaceDetect" revision="m200-glass-master" />
   <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather" revision="m200-glass-master" />
