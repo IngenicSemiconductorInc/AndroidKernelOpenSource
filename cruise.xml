@@ -27,14 +27,6 @@
   <project path="development" name="platform/development" />
   <project path="device/ingenic/cruise" name="device/ingenic/cruise" groups="device" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
-  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
-  <project path="device/generic/common" name="device/generic/common" groups="pdk" />
-  <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
-  <project path="device/generic/mips" name="device/generic/mips" groups="pdk" />
-  <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" />
-  <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" />
-  <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
-  <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
@@ -192,7 +184,6 @@
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" />
-  <project path="external/webkit" name="platform/external/webkit" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="m200-glass-master" />
@@ -282,24 +273,16 @@
   <project path="packages/apps/GlassLauncher" name="platform/packages/apps/GlassLauncher" revision="m200-glass-master" />
   <project path="packages/apps/GlassSettings" name="platform/packages/apps/GlassSettings" revision="m200-glass-master" />
   <project path="packages/apps/MySight" name="platform/packages/apps/MySight" revision="m200-glass-master" />
-  <!-- <project path="packages/apps/MyMedia" name="platform/packages/apps/MyMedia" revision="android-4.3-glass-master" /> -->
-  <project path="packages/apps/MyMusic" name="platform/packages/apps/MyMusic" revision="m200-glass-master" />
   <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="m200-glass-master" />
   <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
-  <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="m200-glass-master" />
-  <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="m200-glass-master" />
   <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master"/>
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
-  <project path="packages/apps/AncsClient" name="platform/packages/apps/AncsClient" revision="m200-glass-master" />
-  <project path="packages/apps/MyMap" name="platform/packages/apps/MyMap" revision="m200-glass-master" />
   <project path="packages/apps/GlassFaceDetect" name="platform/packages/apps/GlassFaceDetect" revision="m200-glass-master" />
-  <project path="packages/apps/MyWeather" name="platform/packages/apps/MyWeather" revision="m200-glass-master" />
   <project path="packages/apps/MyVoiceRecognizer" name="platform/packages/apps/MyVoiceRecognizer" revision="m200-glass-master" />
   <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK" revision="android-4.3-glass-master" />
   <project path="packages/apps/GlassARIME" name="platform/packages/apps/GlassARIME" revision="m200-glass-master" />
-  <project path="packages/apps/GlassLBS" name="platform/packages/apps/GlassLBS" revision="m200-glass-master" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <!-- <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" /> -->
   <!-- <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" /> -->
@@ -316,14 +299,6 @@
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
-  <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
-  <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
-  <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" />
-  <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
-  <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
-  <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
-  <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
-  <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
   <project path="pdk" name="platform/pdk" groups="pdk" />
   <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="pdk,linux" />
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" />
