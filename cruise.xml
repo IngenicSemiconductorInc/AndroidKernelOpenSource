@@ -243,7 +243,6 @@
   <project path="packages/apps/HanLangServer" name="platform/packages/apps/HanLangServer" revision="m200-glass-master" />
   <project path="packages/apps/HanLangInCall" name="platform/packages/apps/HanLangInCall" revision="m200-glass-master" />
   <project path="packages/apps/HanLangMobile" name="platform/packages/apps/HanLangMobile" revision="m200-glass-master" />
-  <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
   <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK" revision="android-4.3-glass-master" />
