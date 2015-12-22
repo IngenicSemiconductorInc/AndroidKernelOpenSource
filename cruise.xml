@@ -241,7 +241,7 @@
   <project path="packages/apps/HanLangSync" name="platform/packages/apps/HanLangSync" revision="m200-glass-master" />
   <project path="packages/apps/HanLangSight" name="platform/packages/apps/HanLangSight" revision="m200-glass-master" />
   <project path="packages/apps/HanLangServer" name="platform/packages/apps/HanLangServer" revision="m200-glass-master" />
-  <project path="packages/apps/HanLangInCall" name="platform/packages/apps/HanLangInCall" revision="m200-glass-master" />
+  <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master" />
   <project path="packages/apps/HanLangMobile" name="platform/packages/apps/HanLangMobile" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
