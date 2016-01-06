@@ -3,6 +3,8 @@
 
   <remote  name="aosp"
            fetch=".." />
+  <remote  name="os"
+           fetch="../../" />
   <default revision="refs/tags/android-6.0.0_r26"
            remote="aosp"
            sync-j="1" />
@@ -476,4 +478,6 @@
   <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="marshmallow-master" />
   <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="lollipop-master" />
 
+  <project path="kernel-3.10.14" name="kernel/mips" revision="ingneic-master-3.10.14" />
+  <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
 </manifest>
