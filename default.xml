@@ -7,7 +7,7 @@
            fetch="../../" />
   <default revision="refs/tags/android-6.0.0_r26"
            remote="aosp"
-           sync-j="1" />
+           sync-j="8" />
 
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -258,7 +258,7 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
+  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="ingenic-marshmallow-master" />
   <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
@@ -476,7 +476,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
   <project path="device/ingenic/dorado" name="device/ingenic/dorado" groups="device" revision="marshmallow-master" />
-  <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="lollipop-master" />
+  <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="marshmallow-master" />
 
   <project path="kernel-3.10.14" name="kernel/mips" revision="ingenic-master-3.10.14" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="ingenic-master" />
