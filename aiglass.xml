@@ -27,6 +27,14 @@
   <project path="development" name="platform/development" />
   <project path="device/ingenic/aiglass" name="device/ingenic/aiglass" groups="device" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
+  <!-- <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" /> -->
+  <!-- <project path="device/generic/common" name="device/generic/common" groups="pdk" /> -->
+  <!-- <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" /> -->
+  <!-- <project path="device/generic/mips" name="device/generic/mips" groups="pdk" /> -->
+  <!-- <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" /> -->
+  <!-- <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" /> -->
+  <!-- <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" /> -->
+  <!-- <project path="device/generic/x86" name="device/generic/x86" groups="pdk" /> -->
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" groups="pdk" />
@@ -278,6 +286,7 @@
   <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="m200-glass-master" />
   <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="m200-glass-master" />
+  <project path="packages/apps/GlassAssistantForAndroid" name="platform/packages/apps/GlassAssistantForAndroid" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="m200-glass-master" />
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="m200-glass-master" />
