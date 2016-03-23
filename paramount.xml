@@ -26,6 +26,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/ingenic/paramount" name="device/ingenic/paramount" groups="device" revision="m200-glass-master" />
+  <project path="device/ingenic/coldwave" name="device/ingenic/coldwave" groups="device" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
@@ -278,6 +279,8 @@
   <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="m200-glass-master" />
   <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="m200-glass-master" />
+  <project path="packages/apps/GlassAVServer" name="platform/packages/apps/GlassAVServer" revision="m200-glass-master" />
+  <project path="packages/apps/GlassAssistantForAndroid" name="platform/packages/apps/GlassAssistantForAndroid" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="m200-glass-master" />
   <project path="packages/apps/GlassMms" name="platform/packages/apps/GlassMms" revision="m200-glass-master" />
