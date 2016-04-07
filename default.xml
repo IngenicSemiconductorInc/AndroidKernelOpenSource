@@ -113,6 +113,7 @@
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <project path="external/liblive555" name="platform/external/liblive555" groups="pdk" revision="m200-glass-master" />
+  <project path="external/rtmpdump" name="platform/external/rtmpdump" groups="pdk" revision="m200-glass-master" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" />
   <project path="external/libnfc-nci" name="platform/external/libnfc-nci" groups="pdk" />
@@ -288,6 +289,7 @@
   <project path="packages/apps/GlassSyncMobile" name="platform/packages/apps/GlassSyncMobile" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncForIOS" name="misc/GlassSyncForIOS" remote="os" revision="m200-glass-master" />
   <project path="packages/apps/GlassAVServer" name="platform/packages/apps/GlassAVServer" revision="m200-glass-master" />
+  <project path="packages/apps/GlassRTMPLive" name="platform/packages/apps/GlassRTMPLive" revision="m200-glass-master" />
   <project path="packages/apps/GlassAssistantForAndroid" name="platform/packages/apps/GlassAssistantForAndroid" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/MessageCenter" name="platform/packages/apps/MessageCenter" revision="m200-glass-master" />
