@@ -113,6 +113,7 @@
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <project path="external/liblive555" name="platform/external/liblive555" groups="pdk" revision="m200-glass-master" />
+  <project path="external/rtmpdump" name="platform/external/rtmpdump" groups="pdk" revision="m200-glass-master" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" />
   <project path="external/libnfc-nci" name="platform/external/libnfc-nci" groups="pdk" />
