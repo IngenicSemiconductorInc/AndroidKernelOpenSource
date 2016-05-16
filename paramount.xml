@@ -222,7 +222,7 @@
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
-  <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="master" />
+  <project path="hardware/ingenic" name="platform/hardware/ingenic" revision="m200-glass-master" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="android-4.3-glass-master"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" revision="android-4.3_r3.1-ingenic" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" revision="android-4.3_r3.1-ingenic" />
