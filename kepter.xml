@@ -239,6 +239,7 @@
   <project path="packages/apps/GlassLauncher" name="platform/packages/apps/GlassLauncher" revision="m200-glass-master" />
   <project path="packages/apps/GlassSettings" name="platform/packages/apps/GlassSettings" revision="m200-glass-master" />
   <project path="packages/apps/MySight" name="platform/packages/apps/MySight" revision="m200-glass-master" />
+  <project path="packages/apps/GlassAVServer" name="platform/packages/apps/GlassAVServer" revision="m200-glass-master" />
   <!-- <project path="packages/apps/MyMedia" name="platform/packages/apps/MyMedia" revision="android-4.3-glass-master" /> -->
   <project path="packages/apps/MyMusic" name="platform/packages/apps/MyMusic" revision="m200-glass-master" />
   <project path="packages/apps/MyVoice" name="platform/packages/apps/MyVoice" revision="m200-glass-master" />
