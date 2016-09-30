@@ -285,7 +285,7 @@
   <!-- <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK" revision="android-4.3-glass-master" /> -->
   <project path="packages/apps/EnforcementRecorder" name="platform/packages/apps/EnforcementRecorder" revision="m200-glass-dev" />
   <project path="packages/apps/GlassLBS" name="platform/packages/apps/GlassLBS" revision="m200-glass-master" />
-  <project path="packages/apps/FotaUpdateApp" name="platform/packages/apps/FotaUpdateApp" revision="m200-glass-master" />
+  <!-- <project path="packages/apps/FotaUpdateApp" name="platform/packages/apps/FotaUpdateApp" revision="m200-glass-master" /> -->
   <project path="packages/experimental" name="platform/packages/experimental" />
   <!-- <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" /> -->
   <!-- <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" /> -->
