@@ -28,6 +28,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/ingenic/m200s_zbrzfy" name="device/ingenic/m200s_zbrzfy" groups="device" revision="m200-glass-master" />
+  <project path="device/ingenic/m200s_zbrzfy_d" name="device/ingenic/m200s_zbrzfy_d" groups="device" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
   <!-- <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" /> -->
   <!-- <project path="device/generic/common" name="device/generic/common" groups="pdk" /> -->
