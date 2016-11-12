@@ -282,6 +282,7 @@
   <!-- <project path="packages/apps/Tag" name="platform/packages/apps/Tag" /> -->
   <!-- <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" /> -->
   <!-- <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" /> -->
+  <project path="packages/apps/MyVoiceRecognizer" name="platform/packages/apps/MyVoiceRecognizer" revision="m200-glass-master"/> 
   <project path="packages/apps/GlassAVServer" name="platform/packages/apps/GlassAVServer" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <!-- <project path="packages/apps/IngenicGlassSDK" name="platform/packages/apps/IngenicGlassSDK" revision="android-4.3-glass-master" /> -->
