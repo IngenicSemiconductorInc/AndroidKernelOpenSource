@@ -18,6 +18,7 @@
   <project path="hardware/init" name="platform/hardware/init" remote="manhattan" revision="ingenic-master" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="manhattan" />
   <project path="device/common/system" name="device/common/system" remote="manhattan" revision="ingenic-master" />
+  <project path="device/coldwave" name="device/coldwave" remote="manhattan" revision="m200-glass-master" />
   <project path="docs/doc" name="platform/docs/doc" remote="manhattan" revision="ingenic-master" />
   <project path="prebuilts/toolchains/mips-gcc472-glibc216" name="toolchains/install/mips-gnus/mips-gcc472-glibc216" remote="os" revision="linux_r2.3.2-gcc472" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="m200-glass-master" />
