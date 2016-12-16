@@ -32,7 +32,7 @@
   <project path="development/tools/ota" name="linux/sources/development/ota" remote="os" revision="ingenic-master" />
   <project path="development/tools/qemu" name="platform/development/tools/qemu" remote="manhattan" revision="ingenic-master" />
   <project path="development/libvideostream" name="platform/development/libvideostream" remote="manhattan" revision="m200-glass-master" />
-  <project path="device/common/system" name="device/common/system" remote="manhattan" revision="ingenic-master" />
+  <project path="device/common/system" name="device/common/system" remote="manhattan" revision="m200-glass-master" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="manhattan" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" remote="manhattan" />
   <project path="external/minigui" name="platform/external/minigui" remote="manhattan" />
