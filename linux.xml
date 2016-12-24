@@ -15,10 +15,10 @@
            sync-j="1" />
 
   <project path="build" name="platform/build" remote="manhattan" revision="ingenic-master" />
-  <project path="development/libutils" name="platform/development/libutils" remote="manhattan" revision="ingenic-master" />
-  <project path="development/libcutils" name="platform/development/libcutils" remote="manhattan" revision="ingenic-master" />
+  <project path="development/libutils" name="platform/development/libutils" remote="manhattan" revision="m200-glass-master" />
+  <project path="development/libcutils" name="platform/development/libcutils" remote="manhattan" revision="m200-glass-master" />
   <project path="development/source/jpg_api" name="platform/development/libs/jpg_api" remote="manhattan" revision="ingenic-master" />
-  <project path="development/service/dlog" name="platform/development/service/dlog" remote="manhattan" revision="ingenic-master" />
+  <project path="development/service/dlog" name="platform/development/service/dlog" remote="manhattan" revision="m200-glass-master" />
   <project path="development/service/suspend" name="platform/development/service/suspend" remote="manhattan" revision="ingenic-master" />
   <project path="development/service/watchdog" name="platform/development/service/watchdog" remote="manhattan" revision="ingenic-master" />
   <project path="development/source/gpio" name="platform/development/source/gpio" remote="manhattan" revision="ingenic-master" />
@@ -32,6 +32,7 @@
   <project path="development/tools/ota" name="linux/sources/development/ota" remote="os" revision="ingenic-master" />
   <project path="development/tools/qemu" name="platform/development/tools/qemu" remote="manhattan" revision="ingenic-master" />
   <project path="development/libvideostream" name="platform/development/libvideostream" remote="manhattan" revision="m200-glass-master" />
+<project path="development/libmedia" name="platform/development/libmedia" remote="manhattan" revision="m200-glass-master" />
   <project path="device/common/system" name="device/common/system" remote="manhattan" revision="m200-glass-master" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="manhattan" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" remote="manhattan" />
@@ -42,12 +43,12 @@
   <project path="external/pocketsphinx-0.8" name="platform/external/pocketsphinx-0.8" remote="manhattan" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="manhattan" />
   <project path="external/gtest" name="platform/external/gtest" remote="manhattan" />
-  <project path="external/libunwind" name="platform/external/libunwind" remote="manhattan" />
+  <project path="external/libunwind" name="platform/external/libunwind" remote="manhattan" revision="m200-glass-master" />
   <project path="external/libbacktrace" name="platform/external/libbacktrace" remote="manhattan" />
   <project path="external/mp4v2-master" name="platform/external/mp4v2-master" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/bluetooth" name="platform/external/bluetooth" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/faac" name="platform/external/faac" remote="manhattan" revision="m200-glass-master"/>
-  <project path="hardware/init" name="platform/hardware/init" remote="manhattan" revision="ingenic-master" />
+  <project path="hardware/init" name="platform/hardware/init" remote="manhattan" revision="m200-glass-master" />
   <project path="hardware/SampleOnTime" name="platform/hardware/SampleOnTime" remote="manhattan" revision="ingenic-master" />
   <project path="hardware/tests/SampleOnTime" name="platform/hardware/tests/SampleOnTime" remote="manhattan" revision="ingenic-master" />
   <project path="hardware/ingenic" name="platform/hardware/ingenic" remote="manhattan" revision="m200-glass-master" />
