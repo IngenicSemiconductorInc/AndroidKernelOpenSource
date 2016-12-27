@@ -16,7 +16,6 @@
 
   <project path="build" name="platform/build" remote="manhattan" revision="ingenic-master" />
   <project path="development/libutils" name="platform/development/libutils" remote="manhattan" revision="m200-glass-master" />
-  <project path="development/libcutils" name="platform/development/libcutils" remote="manhattan" revision="m200-glass-master" />
   <project path="development/source/jpg_api" name="platform/development/libs/jpg_api" remote="manhattan" revision="ingenic-master" />
   <project path="development/service/dlog" name="platform/development/service/dlog" remote="manhattan" revision="m200-glass-master" />
   <project path="development/service/suspend" name="platform/development/service/suspend" remote="manhattan" revision="ingenic-master" />
@@ -34,6 +33,7 @@
   <project path="development/libvideostream" name="platform/development/libvideostream" remote="manhattan" revision="m200-glass-master" />
   <project path="development/libmedia" name="platform/development/libmedia" remote="manhattan" revision="m200-glass-master" />
   <project path="system/core" name="platform/system/core" remote="manhattan" revision="m200-glass-master" />
+  <project path="bionic" name="platform/bionic" remote="manhattan" revision="m200-glass-master" />
   <project path="device/common/system" name="device/common/system" remote="manhattan" revision="m200-glass-master" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="manhattan" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" remote="manhattan" />
@@ -49,7 +49,8 @@
   <project path="external/mp4v2-master" name="platform/external/mp4v2-master" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/bluetooth" name="platform/external/bluetooth" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/faac" name="platform/external/faac" remote="manhattan" revision="m200-glass-master"/>
-  <project path="external/zlib" name="platform/external/zlib" remote="manhattan" />
+  <project path="external/zlib" name="platform/external/zlib" remote="manhattan" revision="m200-glass-master"/>
+  <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="manhattan" revision="m200-glass-master"/>
   <project path="hardware/init" name="platform/hardware/init" remote="manhattan" revision="m200-glass-master" />
   <project path="hardware/SampleOnTime" name="platform/hardware/SampleOnTime" remote="manhattan" revision="ingenic-master" />
   <project path="hardware/tests/SampleOnTime" name="platform/hardware/tests/SampleOnTime" remote="manhattan" revision="ingenic-master" />
