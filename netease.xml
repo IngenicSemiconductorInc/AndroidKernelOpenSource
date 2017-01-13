@@ -77,5 +77,5 @@
   <project path="prebuilts/eclipse_install" name="platform/prebuilts/eclipse_install" remote="manhattan" revision="ingenic-master"/>
   <project path="device/netease" name="device/netease" remote="manhattan" revision="m200-glass-master" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="m200-glass-master" />
-  <project path="u-boot" name="bootloader/u-boot" remote="os" revision="m200-glass-master" />
+  <project path="u-boot" name="bootloader/u-boot" remote="os" revision="m200-glass-thirdparty" />
 </manifest>
