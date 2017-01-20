@@ -31,6 +31,8 @@
   <project path="development/tools/ota" name="linux/sources/development/ota" remote="os" revision="ingenic-master" />
   <project path="development/libvideostream" name="platform/development/libvideostream" remote="manhattan" revision="m200-glass-master" />
   <project path="development/libmedia" name="platform/development/libmedia" remote="manhattan" revision="m200-glass-master" />
+  <project path="development/libcamera" name="platform/development/libcamera" remote="manhattan" revision="m200-glass-master" />
+  <project path="development/graphics" name="platform/development/graphics" remote="manhattan" revision="m200-glass-master" />
   <project path="system/core" name="platform/system/core" remote="manhattan" revision="m200-glass-master" />
   <project path="system/media" name="platform/system/media" remote="manhattan" revision="m200-glass-master" />
   <project path="bionic" name="platform/bionic" remote="manhattan" revision="m200-glass-master" />
