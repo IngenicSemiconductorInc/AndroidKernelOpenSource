@@ -15,7 +15,6 @@
            sync-j="1" />
 
   <project path="build" name="platform/build" remote="manhattan" revision="ingenic-master" />
-  <project path="development/libutils" name="platform/development/libutils" remote="manhattan" revision="m200-glass-master" />
   <project path="development/source/jpg_api" name="platform/development/libs/jpg_api" remote="manhattan" revision="ingenic-master" />
   <project path="development/service/dlog" name="platform/development/service/dlog" remote="manhattan" revision="m200-glass-master" />
   <project path="development/service/suspend" name="platform/development/service/suspend" remote="manhattan" revision="ingenic-master" />
@@ -29,13 +28,11 @@
   <project path="development/tools/gdbserver" name="platform/development/tools/gdbserver" remote="manhattan" revision="ingenic-master" />
   <project path="development/tools/utility" name="platform/development/tools/utility" remote="manhattan" revision="ingenic-master" />
   <project path="development/tools/ota" name="linux/sources/development/ota" remote="os" revision="ingenic-master" />
-  <project path="development/libvideostream" name="platform/development/libvideostream" remote="manhattan" revision="m200-glass-master" />
-  <project path="development/libmedia" name="platform/development/libmedia" remote="manhattan" revision="m200-glass-master" />
-  <project path="development/libcamera" name="platform/development/libcamera" remote="manhattan" revision="m200-glass-master" />
   <project path="development/graphics" name="platform/development/graphics" remote="manhattan" revision="m200-glass-master" />
   <project path="system/core" name="platform/system/core" remote="manhattan" revision="m200-glass-master" />
   <project path="system/media" name="platform/system/media" remote="manhattan" revision="m200-glass-master" />
   <project path="bionic" name="platform/bionic" remote="manhattan" revision="m200-glass-master" />
+  <project path="framework" name="platform/framework" remote="manhattan" revision="m200-glass-master" />
   <project path="device/common/system" name="device/common/system" remote="manhattan" revision="m200-glass-master" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="manhattan" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" remote="manhattan" />
