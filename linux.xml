@@ -45,7 +45,6 @@
   <project path="external/gtest" name="platform/external/gtest" remote="manhattan" />
   <project path="external/libunwind" name="platform/external/libunwind" remote="manhattan" revision="m200-glass-master" />
   <project path="external/libbacktrace" name="platform/external/libbacktrace" remote="manhattan" />
-  <project path="external/mp4v2-master" name="platform/external/mp4v2-master" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/bluetooth" name="platform/external/bluetooth" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/wifi" name="platform/external/wifi" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/faac" name="platform/external/faac" remote="manhattan" revision="m200-glass-master"/>
