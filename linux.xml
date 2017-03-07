@@ -45,6 +45,7 @@
   <project path="external/gtest" name="platform/external/gtest" remote="manhattan" />
   <project path="external/libunwind" name="platform/external/libunwind" remote="manhattan" revision="m200-glass-master" />
   <project path="external/libbacktrace" name="platform/external/libbacktrace" remote="manhattan" />
+  <project path="external/android-include" name="platform/external/android/include" remote="manhattan" revision="ingenic-master"/>
   <project path="external/bluetooth" name="platform/external/bluetooth" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/wifi" name="platform/external/wifi" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/aac" name="platform/external/aac" remote="manhattan" revision="m200-glass-master"/>
