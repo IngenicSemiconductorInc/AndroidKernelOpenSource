@@ -278,7 +278,7 @@
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="m200-glass-master" />
   <project path="kernel" name="android/kernel/kernel-3.0.8" remote="os" revision="m200-glass-master" />
   <project path="bootable/bootloader/uboot" name="bootloader/u-boot" remote="os" revision="m200-glass-master" />
 </manifest>
