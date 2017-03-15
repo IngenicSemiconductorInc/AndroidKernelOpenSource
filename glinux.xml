@@ -27,8 +27,8 @@
   <project path="development/tools/adb" name="platform/development/tools/adb" remote="manhattan" revision="ingenic-master" />
   <project path="development/tools/gdbserver" name="platform/development/tools/gdbserver" remote="manhattan" revision="ingenic-master" />
   <project path="development/tools/utility" name="platform/development/tools/utility" remote="manhattan" revision="ingenic-master" />
-  <project path="development/tools/pretest" name="platform/development/tools/pretest" remote="manhattan" revision="ingenic-master" />
   <project path="development/tools/ota" name="linux/sources/development/ota" remote="os" revision="ingenic-master" />
+  <project path="development/tools/pretest" name="platform/development/tools/pretest" remote="manhattan" revision="m200-glass-master" />
   <project path="development/graphics" name="platform/development/graphics" remote="manhattan" revision="m200-glass-master" />
   <project path="system/core" name="platform/system/core" remote="manhattan" revision="m200-glass-master" />
   <project path="system/media" name="platform/system/media" remote="manhattan" revision="m200-glass-master" />
