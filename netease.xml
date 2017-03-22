@@ -48,7 +48,6 @@
   <project path="external/libbacktrace" name="platform/external/libbacktrace" remote="manhattan" />
   <project path="external/mp4v2-master" name="platform/external/mp4v2-master" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/bluetooth" name="platform/external/bluetooth" remote="manhattan" revision="m200-glass-master"/>
-  <project path="external/faac" name="platform/external/faac" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/zlib" name="platform/external/zlib" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="manhattan" revision="m200-glass-master"/>
   <project path="hardware/init" name="platform/hardware/init" remote="manhattan" revision="m200-glass-master" />
