@@ -14,7 +14,7 @@
 	   remote="aosp"
            sync-j="1" />
 
-  <project path="build" name="platform/build" remote="manhattan" revision="ingenic-master" />
+  <project path="build" name="platform/build" remote="manhattan" revision="m200-glass-master" />
   <project path="development/source/jpg_api" name="platform/development/libs/jpg_api" remote="manhattan" revision="ingenic-master" />
   <project path="development/service/dlog" name="platform/development/service/dlog" remote="manhattan" revision="m200-glass-master" />
   <project path="development/service/suspend" name="platform/development/service/suspend" remote="manhattan" revision="ingenic-master" />
