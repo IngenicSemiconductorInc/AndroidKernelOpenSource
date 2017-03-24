@@ -38,8 +38,6 @@
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="manhattan" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" remote="manhattan" />
   <project path="external/minigui" name="platform/external/minigui" remote="manhattan" />
-  <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="manhattan" />
-  <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="manhattan" />
   <project path="external/sphinxbase-0.8" name="platform/external/sphinxbase-0.8" remote="manhattan" />
   <project path="external/pocketsphinx-0.8" name="platform/external/pocketsphinx-0.8" remote="manhattan" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="manhattan" />
