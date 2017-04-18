@@ -17,7 +17,7 @@
   <project path="build" name="platform/build" remote="manhattan" revision="m200-glass-master" />
   <!-- <project path="development/source/jpg_api" name="platform/development/libs/jpg_api" remote="manhattan" revision="ingenic-master" /> -->
   <project path="development/service/dlog" name="platform/development/service/dlog" remote="manhattan" revision="m200-glass-master" />
-  <project path="development/service/suspend" name="platform/development/service/suspend" remote="manhattan" revision="ingenic-master" />
+  <!-- <project path="development/service/suspend" name="platform/development/service/suspend" remote="manhattan" revision="ingenic-master" /> -->
   <project path="development/service/watchdog" name="platform/development/service/watchdog" remote="manhattan" revision="ingenic-master" />
   <!-- <project path="development/source/gpio" name="platform/development/source/gpio" remote="manhattan" revision="ingenic-master" /> -->
   <!-- <project path="development/source/i2c" name="platform/development/source/i2c" remote="manhattan" revision="ingenic-master" /> -->
@@ -42,7 +42,7 @@
   <project path="external/pocketsphinx-0.8" name="platform/external/pocketsphinx-0.8" remote="manhattan" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="manhattan" />
   <project path="external/gtest" name="platform/external/gtest" remote="manhattan" />
-  <project path="external/libunwind" name="platform/external/libunwind" remote="manhattan" revision="m200-glass-master" />
+  <!-- <project path="external/libunwind" name="platform/external/libunwind" remote="manhattan" revision="m200-glass-master" /> -->
   <project path="external/bluetooth" name="platform/external/bluetooth" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/openssl" name="platform/external/openssl" remote="manhattan" revision="m200-glass-master"/>
   <project path="external/boa" name="platform/external/boa" remote="manhattan" revision="m200-glass-master"/>
