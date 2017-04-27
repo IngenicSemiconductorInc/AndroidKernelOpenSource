@@ -33,6 +33,7 @@
   <project path="device/ingenic/m200s_zbrzfy_a" name="device/ingenic/m200s_zbrzfy_a" groups="device" revision="m200-glass-master" />
   <project path="device/ingenic/m200s_zdzfy" name="device/ingenic/m200s_zdzfy" groups="device" revision="m200-glass-master" />
   <project path="device/ingenic/m200s_jjzfy" name="device/ingenic/m200s_jjzfy" groups="device" revision="m200-glass-master" />
+  <project path="device/ingenic/m200s_zyczzfy" name="device/ingenic/m200s_zyczzfy" groups="device" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
   <!-- <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" /> -->
   <!-- <project path="device/generic/common" name="device/generic/common" groups="pdk" /> -->
