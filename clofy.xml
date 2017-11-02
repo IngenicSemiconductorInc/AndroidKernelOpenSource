@@ -26,6 +26,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/ingenic/clofy" name="device/ingenic/clofy" groups="device" revision="m200-glass-master" />
+  <project path="device/ingenic/a822" name="device/ingenic/a822" groups="device" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
