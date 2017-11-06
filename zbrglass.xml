@@ -6,8 +6,6 @@
   <remote  name="os"
            fetch="../.."
            review="https://review.ingenic.cn/" />
-  <remote  name="ingenic"
-	   fetch="../../AOSP" />
   <default revision="refs/tags/android-4.3_r3.1"
            remote="aosp"
            sync-j="1" />
@@ -27,7 +25,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
-  <project path="device/ingenic/m200s_jjzfy" name="device/ingenic/m200s_jjzfy" groups="device" revision="m200-glass-master" />
+  <project path="device/ingenic/zbrglass" name="device/ingenic/zbrglass" groups="zbrglass" revision="m200-glass-master" />
   <project path="device/common" name="device/common" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
