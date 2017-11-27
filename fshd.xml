@@ -239,14 +239,14 @@
   <project path="packages/apps/GlassLauncher" name="platform/packages/apps/GlassLauncher" revision="m200-glass-master" />
   <project path="packages/apps/GlassSettings" name="platform/packages/apps/GlassSettings" revision="m200-glass-master" />
   <project path="packages/apps/FotaUpdateApp" name="platform/packages/apps/FotaUpdateApp" revision="m200-glass-master" />
-  <project path="packages/apps/HanLangSync" name="platform/packages/apps/HanLangSync" revision="m200-glass-master" />
   <project path="packages/apps/GlassAVServer" name="platform/packages/apps/GlassAVServer" revision="m200-glass-master" />
   <project path="packages/apps/MySight" name="platform/packages/apps/MySight" revision="m200-glass-master" />
-  <project path="packages/apps/HanLangServer" name="platform/packages/apps/HanLangServer" revision="m200-glass-master" />
   <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master" />
-  <project path="packages/apps/HanLangMobile" name="platform/packages/apps/HanLangMobile" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
+  <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
+  <project path="packages/apps/GlassAssistantForAndroid" name="platform/packages/apps/GlassAssistantForAndroid" revision="m200-glass-master" />
+  <project path="packages/apps/GlassSyncForIOS" name="misc/GlassSyncForIOS" remote="os" revision="m200-glass-master" />
   <project path="packages/apps/GlassLBS" name="platform/packages/apps/GlassLBS" revision="m200-glass-master" />
   <project path="packages/apps/MyVoiceRecognizer" name="platform/packages/apps/MyVoiceRecognizer" revision="m200-glass-master" />
   <project path="packages/experimental" name="platform/packages/experimental" />
