@@ -244,7 +244,7 @@
   <project path="packages/apps/GlassInCall" name="platform/packages/apps/GlassInCall" revision="m200-glass-master" />
   <project path="packages/apps/GlassIME" name="platform/packages/apps/GlassIME" revision="m200-glass-master" />
   <project path="packages/apps/GlassContacts" name="platform/packages/apps/GlassContacts" revision="m200-glass-master" />
-  <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-master" />
+  <project path="packages/apps/GlassSync" name="platform/packages/apps/GlassSync" revision="m200-glass-dev" />
   <project path="packages/apps/GlassAssistantForAndroid" name="platform/packages/apps/GlassAssistantForAndroid" revision="m200-glass-master" />
   <project path="packages/apps/GlassSyncForIOS" name="misc/GlassSyncForIOS" remote="os" revision="m200-glass-master" />
   <project path="packages/apps/GlassLBS" name="platform/packages/apps/GlassLBS" revision="m200-glass-master" />
